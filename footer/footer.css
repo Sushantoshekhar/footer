@@ -1,0 +1,19 @@
+/* ----------------------------------------footer------------------------------------------- */
+footer{
+    width: 100%;
+    text-align: center;
+    padding:30px 0;
+    margin-bottom:25px;
+    font-weight: 600;
+    flex-wrap: wrap;
+    background-color: #f44336;
+
+}
+
+
+.icons {
+    color:#f4f136;
+    margin: 0 13px;
+    cursor: pointer;
+    padding: 18px 0;
+}
